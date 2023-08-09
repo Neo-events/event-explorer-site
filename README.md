@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-# neo-events-web
+# event-explorer-site
 
-This template should help get you started developing with Vue 3 in Vite.
+#### Event Explorer web-site https://explorer.neo.events/
 
-## Recommended IDE Setup
+Found a bug on the site create an issue. Think you got what it takes to fix it yourself? than Fork it, than PR it.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -29,7 +23,3 @@ npm run dev
 npm run build
 ```
 =======
-# event-explorer-site
-
-#### Event Explorer web-site https://explorer.neo.events/
->>>>>>> b96bd086e64d354b4f3228e1a0cd7c735c3b184f
