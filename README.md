@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # neo-events-web
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,8 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# event-explorer-site
+
+#### Event Explorer web-site https://explorer.neo.events/
+>>>>>>> b96bd086e64d354b4f3228e1a0cd7c735c3b184f
