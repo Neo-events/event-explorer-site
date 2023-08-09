@@ -5,6 +5,11 @@ import FooterNavBar from './components/FooterNavBar.vue'
 </script>
 
 <template>
+  <div class="alert alert-warning text-center" role="alert">
+  <div>
+    This site in development!
+  </div>
+</div>
   <HeaderNavBar />
   <RouterView />
   <FooterNavBar />

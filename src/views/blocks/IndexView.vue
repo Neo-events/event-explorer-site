@@ -1,6 +1,7 @@
 <script setup>
 import Pagination from '../../components/Pagination.vue'
 import IndexListGroup from '../../components/blocks/list-groups/IndexListGroup.vue'
+
 </script>
 
 <template>
